@@ -9,18 +9,18 @@ literature in the near future. The main programming language will be Python, and
 heavily depend on popular deep learning and NLP frameworks, e.g., Pytorch, Numpy, and
 HF.
 # COURSE OBJECTIVES
-● To understand the foundational tasks and models for modern NLP,
-● To prepare students to conduct high-quality research in NLP,
+● To understand the foundational tasks and models for modern NLP,<br>
+● To prepare students to conduct high-quality research in NLP,<br>
 ● To have students develop design and programming skills to solve practical NLP
-problems,
+problems,<br>
 ● To emphasize the challenges and open problems in NLP
 # COURSE LEARNING OUTCOMES
 ● Understand fundamental NLP tasks such as morphological, syntactic, semantic,
 discourse analysis/parsing; language modeling; question answering; natural language
-generation; dialogue
+generation; dialogue<br>
 ● Understand the full NLP pipeline such as data collection, annotation, fundamental text
-data preprocessing, model implementation, development, and test
+data preprocessing, model implementation, development, and test<br>
 ● Understand and be able to develop fundamental NLP models such as RNNs,
-attention mechanisms, and transformer-based language models,
+attention mechanisms, and transformer-based language models,<br>
 ● Understand and get familiar with more recent NLP techniques such as in-context
 learning
