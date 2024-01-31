@@ -26,7 +26,7 @@ attention mechanisms, and transformer-based language models,<br>
 learning
 
 # Assignment 1
-
+This assessment comprises two parts: "Fasttext" and "POS Tagging," focusing on word embeddings and their application in NLP tasks. Part 1 involves training word embeddings on a Turkish dataset using Fasttext, employing both Continuous Bag of Words and Skipgram methods. It includes environment setup, data downloading, preprocessing, model training, and analysis through functions like get_nearest_neighbors and get_analogies. Part 2 entails implementing a POS tagger using a BiLSTM network, covering data preprocessing, model implementation, training, and evaluation. Additionally, this part investigates the enhancement of the BiLSTM model's performance through the initialization with Fasttext embeddings. 
 
 # Assignment 2
 I engaged in a comprehensive exploration of seq2seq models, focusing on translating Turkish to English using the wmt16 dataset. The assignment involved building and experimenting with different seq2seq architectures, including basic models without attention, single-headed attention models, and multi-headed attention models. Key tasks included training these models using teacher forcing, decoding with beam search, and handling various technical aspects like attention scores and hidden state initialization. The models' performances were evaluated using the BLEU score metric on a test dataset, with the goal of understanding the efficacy of each seq2seq variant in the context of machine translation.
