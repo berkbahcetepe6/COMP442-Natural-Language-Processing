@@ -1,5 +1,5 @@
 # COMP442-Natural-Language-Processing
-# COURSE DESCRIPTION:
+# COURSE DESCRIPTION
 Natural Language Processing (NLP) is a subfield of artificial intelligence (AI) that is
 concerned with modeling computers to understand, generate and interact with natural/human
 language. This course will cover fundamental NLP tasks such as language modeling,
@@ -8,7 +8,7 @@ introductory, graduate-level course aimed at students willing to contribute to t
 literature in the near future. The main programming language will be Python, and we will
 heavily depend on popular deep learning and NLP frameworks, e.g., Pytorch, Numpy, and
 HF.
-# COURSE OBJECTIVES:
+# COURSE OBJECTIVES
 ● To understand the foundational tasks and models for modern NLP,
 ● To prepare students to conduct high-quality research in NLP,
 ● To have students develop design and programming skills to solve practical NLP
