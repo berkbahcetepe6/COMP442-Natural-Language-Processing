@@ -24,3 +24,12 @@ data preprocessing, model implementation, development, and test,<br>
 attention mechanisms, and transformer-based language models,<br>
 ● Understand and get familiar with more recent NLP techniques such as in-context
 learning
+
+# Assignment 1
+
+
+# Assignment 2
+I engaged in a comprehensive exploration of seq2seq models, focusing on translating Turkish to English using the wmt16 dataset. The assignment involved building and experimenting with different seq2seq architectures, including basic models without attention, single-headed attention models, and multi-headed attention models. Key tasks included training these models using teacher forcing, decoding with beam search, and handling various technical aspects like attention scores and hidden state initialization. The models' performances were evaluated using the BLEU score metric on a test dataset, with the goal of understanding the efficacy of each seq2seq variant in the context of machine translation.
+
+# Assignment 3
+I engaged in two distinct parts, focusing on the fine-tuning and application of Transformer models for complex NLP tasks. In Part 1, I trained a Transformer to perform a knowledge-intensive task, initially without success. However, after pretraining on Wikipedia text, the model showed a significant improvement in accessing and utilizing world knowledge not present in the training data. Part 2 was dedicated to multi-task learning, where I used Hugging Face's tools to handle a variety of NLP tasks, such as textual similarity scoring, natural language entailment, and multiple-choice question-answering. This part involved building a flexible multi-task training scheme with a shared Transformer encoder but distinct task heads for each task, processing diverse data formats, and setting up a specialized DataLoader and Trainer. The culmination of this assignment was the successful training and evaluation of the model across different tasks, demonstrating its versatility and effectiveness in multi-task learning scenarios.
