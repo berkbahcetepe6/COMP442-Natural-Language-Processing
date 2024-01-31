@@ -17,9 +17,9 @@ problems,<br>
 # COURSE LEARNING OUTCOMES
 ● Understand fundamental NLP tasks such as morphological, syntactic, semantic,
 discourse analysis/parsing; language modeling; question answering; natural language
-generation; dialogue<br>
+generation; dialogue,<br>
 ● Understand the full NLP pipeline such as data collection, annotation, fundamental text
-data preprocessing, model implementation, development, and test<br>
+data preprocessing, model implementation, development, and test,<br>
 ● Understand and be able to develop fundamental NLP models such as RNNs,
 attention mechanisms, and transformer-based language models,<br>
 ● Understand and get familiar with more recent NLP techniques such as in-context
